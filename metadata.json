@@ -1,0 +1,10 @@
+{
+  "name": "Nextwaver AI Meeting Team",
+  "description": "Nextwaver AI Meeting Team — ระบบประชุมอัจฉริยะแบบ Multi-Agent ขับเคลื่อนด้วย Gemini Live API, ระบบจับเสียง 360°, Speaker Identification & Voice Enrollment และ OneVault Context Integration",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
